@@ -31,7 +31,7 @@ export default function Hero() {
           </div>
 
           <ul className="mt-8 flex flex-wrap justify-center md:justify-start gap-x-5 gap-y-2 font-label text-xs uppercase tracking-wider text-dim">
-            <li><span className="text-ok">■</span> Free</li>
+            <li><span className="text-ok">■</span> No timers</li>
             <li><span className="text-cyan">■</span> Offline</li>
             <li><span className="text-violet">■</span> No ads</li>
             <li><span className="text-orange">■</span> No accounts</li>
