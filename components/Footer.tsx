@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
         <div>
           <Logo />
-          <p className="text-xs text-dim mt-3">A retro block puzzle by Javier Bascones. Built with C++, SDL3 and libxmp.</p>
+          <p className="text-xs text-dim mt-3">A retro block puzzle by Javier Bascones.</p>
         </div>
         <nav aria-label="Footer" className="flex flex-wrap justify-center gap-x-6 gap-y-2 font-label text-xs uppercase tracking-wider">
           {[

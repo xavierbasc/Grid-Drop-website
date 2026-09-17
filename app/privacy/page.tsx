@@ -46,7 +46,7 @@ export default function Privacy() {
               <h2>Permissions</h2>
               <p>
                 The game needs no permissions. On some platforms the store listing mentions camera,
-                microphone or Bluetooth: that is only because the SDL library the game is built on
+                microphone or Bluetooth: that is only because the game framework it is built on
                 includes support for them. Grid Drop never uses the camera or microphone, and
                 Bluetooth is only ever used by the system to talk to a game controller you have paired.
               </p>

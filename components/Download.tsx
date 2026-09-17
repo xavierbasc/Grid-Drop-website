@@ -18,7 +18,7 @@ export default function Download() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
         <SectionHead kicker="Get the game" title="Coming to desktop and mobile">
           <p>
-            Grid Drop is a native game written in C++ with SDL3. The full version — with
+            The full version of Grid Drop — with
             music, saves and every level — is on its way. Until then, the demo above plays
             by exactly the same rules.
           </p>

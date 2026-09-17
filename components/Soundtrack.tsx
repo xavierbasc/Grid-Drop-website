@@ -21,7 +21,7 @@ export default function Soundtrack() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
         <SectionHead kicker="Soundtrack" title="Tracker music from the demoscene">
           <p>
-            The game plays classic module files through libxmp — a new tune every level. Thanks to
+            The game plays classic module files — a new tune every level. Thanks to
             the musicians who made them.
           </p>
         </SectionHead>
