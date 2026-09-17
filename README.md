@@ -24,6 +24,9 @@ Cada push a `main` compila y publica con `.github/workflows/deploy.yml`.
 | `public/shots/` | capturas de `--screenshot` escaladas a 2× por vecino más cercano |
 | `lib/asset.ts` | prefijo de `basePath` para `<img>` y `<link>`, que la exportación no reescribe |
 
+Reglas de contenido, trampas y cómo probar: `.claude/CLAUDE.md`. El juego es
+de pago: la web no debe decir que sea gratis.
+
 La clase de bloque se llama `gblock` y no `block`: `block` es la utilidad
 `display: block` de Tailwind y cualquier elemento con ella se pintaba como un
 bloque rojo.
